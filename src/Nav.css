@@ -1,0 +1,13 @@
+.Navs{
+    background-color: tomato;
+    padding: 1rem;
+    margin-bottom: 15px;
+}
+
+.Navs a {
+    padding-right: 70px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
